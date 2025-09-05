@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">tomAndJeryTrain</string>
+    <string name="hi_jerry">Hi, Jerry 👋🏻</string>
+    <string name="which_tom_you_want_to_buy">Which Tom do you want to buy?</string>
+    <string name="search_about_tom">Search about tom …</string>
+    <string name="Buy_1_Tom_and_get_2_for_free">Buy 1 Tom and get 2 for free</string>
+    <string name="Adopt_Tom">Adopt Tom! (Free Fail-Free\nGuarantee)</string>
+    <string name="Cheap_tom_section">Cheap tom section</string>
+    <string name="View_all">View all</string>
+
+    <string name="card1_title">Sport Tom</string>
+    <string name="card1_desc">He runs 1 meter… trips\n over his boot.</string>
+    <string name="card1_price">3</string>
+
+    <string name="card2_title">Tom the lover</string>
+    <string name="card2_desc">He loves one-sidedly... and is beaten by the other side.</string>
+    <string name="card2_price">5</string>
+
+
+    <string name="card3_title">Tom the bomb</string>
+    <string name="card3_desc">He blows himself up before Jerry can catch him.</string>
+    <string name="card3_price">10</string>
+
+    <string name="card4_title">Spy Tom</string>
+    <string name="card4_desc">Disguises itself as a table.</string>
+    <string name="card4_price">12</string>
+
+    <string name="card5_title">Frozen Tom</string>
+    <string name="card5_des">Hec was chasing Jerry, he froze after the first look</string>
+    <string name="card5_price">10</string>
+
+    <string name="card6_title">Sleeping Tom</string>
+    <string name="card6_desc">He doesn\'t chase anyone, he just snores in stereo.</string>
+    <string name="card6_price">10</string>
+
+
+    <string name="High_tension">High tension</string>
+    <string name="Shocking_foods">Shocking foods</string>
+    <string name="electric_tom_pasta">Electric Tom pasta</string>
+
+
+    <string name="pasta_description">Pasta cooked with a charger cable and \nsprinkled with questionable cheese. Make sure \nto unplug it before eating (or not, you decide).</string>
+    <string name="_1000_v">1000 V</string>
+    <string name="temperature">Temperature</string>
+    <string name="_3_sparks">3 sparks</string>
+    <string name="time">Time</string>
+    <string name="_1m_12k">1M 12K</string>
+    <string name="no_of_deaths">No. of deaths</string>
+    <string name="preparation_method">Preparation method</string>
+    <string name="put_the_pasta_in_a_toaster">Put the pasta in a toaster.</string>
+    <string name="pour_battery_juice_over_it">Pour battery juice over it.</string>
+    <string name="wait_for_the_spark_to_ignite">Wait for the spark to ignite.</string>
+    <string name="serve_with_an_insulating_glove">Serve with an insulating glove.</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="_3_cheeses">3 cheeses</string>
+    <string name="title_activity_kitchen">KitchenActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_secret_move">SecretMoveActivity</string>
+
+
+</resources>

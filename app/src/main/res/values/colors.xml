@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_white">#CCFFFFFF</color>
+
+    <color name="background_color">#EEF4F6</color>
+    <color name="jerry_border_stroke">#261F1F1E</color>
+    <color name="main_text_color">#1F1F1E</color>
+    <color name="second_text_color">#A5A6A4</color>
+
+    <color name="notification_card_border_color">#261F1F1E</color>
+    <color name="jerry_blue_color">#03578A</color>
+
+
+    <color name="search_field_border_color">#14A5A6A4</color>
+    <color name="search_text_color">#969799</color>
+
+
+
+    <color name="offer_section_gradient_1">#03446A</color>
+    <color name="offer_section_gradient_2">#0685D0</color>
+    <color name="chees_card_color">#E9F6FB</color>
+
+
+
+</resources>
